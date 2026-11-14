@@ -1,0 +1,17 @@
+# Never commit an assembled instance or user data
+mods/
+config/
+saves/
+logs/
+crash-reports/
+accounts.json
+usercache.json
+server.properties
+*.jar
+*.zip
+*.7z
+*.rar
+*.key
+*.pem
+.env
+.env.*
